@@ -1,4 +1,4 @@
-# Hosting Submitted
+# Hosting Ad Submitted
 
 Thank you for submitting your listing!
 
