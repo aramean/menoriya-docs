@@ -1,0 +1,14 @@
+# What is Menoriya?
+- Menoriya is a platform for discovering and offering accommodations in Ethiopia.
+
+# How can I book an accommodation?
+- You can browse available stays, select your desired option, and book directly through the app.
+
+# What payment methods are accepted?
+- Currently, we accept bank transfer and mobile money services like Telebirr.
+
+# Can I host my space on Menoriya?
+- Absolutely! Sign in as a host and follow the steps to list your property.
+
+# Is Menoriya only for Ethiopia?
+- Yes. Menoriya is focused on Ethiopian accommodations to support local travel and hosting.
