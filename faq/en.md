@@ -16,7 +16,7 @@
 ## Hosting
 
 ### Can I host my space on Menoriya?
-- **Absolutely!** Sign in as a **host** and follow the steps to list your **property**.
+- **Absolutely!** Sign in and switch to **host** mode in the menu.
 
 ### Is Menoriya only for Ethiopia?
 - Yes. **Menoriya** is focused on **Ethiopian accommodations** to support local travel and hosting.
